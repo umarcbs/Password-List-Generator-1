@@ -29,7 +29,7 @@ Open Capture.JPG
 ```
 
 # How to Customise
-You can edit manually the wokring of this tool by dving deep in the code. 
+You can edit manually the working of this tool by dving deep in the code. 
 You can change [add or delete] some options in the code manually.
 
 

@@ -32,6 +32,8 @@ Open Capture.JPG
 You can edit manually the working of this tool by dving deep in the code. 
 You can change [add or delete] some options in the code manually.
 
+# Results
+This tool will create a text file cotaining generated password list.The file is saved as "passwordslist.txt". Go to donwloads and check this file. Open it and have a look at the passwords.
 
 ### Follow
 - www.github.com/umarcbs
